@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5B584566-11FF-40B9-8512-395738003A88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphAlgorithms/DFS.cs">
+    <Files>
+      <File FileName="GraphAlgorithms/Program.cs" Line="197" Column="25" />
+      <File FileName="GraphAlgorithms/GraphAdjList.cs" Line="7" Column="15" />
+      <File FileName="GraphAlgorithms/BFS.cs" Line="39" Column="20" />
+      <File FileName="GraphAlgorithms/DFS.cs" Line="24" Column="34" />
+      <File FileName="GraphAlgorithms/UnionFind.cs" Line="20" Column="3" />
+      <File FileName="GraphAlgorithms/Kruskal.cs" Line="52" Column="20" />
+      <File FileName="GraphAlgorithms/Prim.cs" Line="11" Column="3" />
+      <File FileName="GraphAlgorithms/PriorityQueue.cs" Line="116" Column="4" />
+      <File FileName="GraphAlgorithms/Dijkstra.cs" Line="11" Column="26" />
+      <File FileName="GraphAlgorithms/BellmanFord.cs" Line="30" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GraphAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
